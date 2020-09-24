@@ -14,6 +14,6 @@ Citation Source: https://apps.who.int/iris/bitstream/handle/10665/329368/9789241
 
 ## The models and hyperparameters are performed for the project which are referenced following our previous study: Deep Learning for Automated Recognition of Covid-19 from Chest X-ray Images at here [https://www.medrxiv.org/content/10.1101/2020.08.13.20173997v1] and github site at here: [https://github.com/linhduongtuan/Covid-19_Xray_Classifier]
 
-## Confusion matrices inferenced on testing set can be seen on Confusion Matrices folder.
+## Confusion matrices are calculated by inferencing on testing set can be seen on Confusion Matrices folder.
 
 ### @creator: Duong Tuan Linh
