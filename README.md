@@ -8,12 +8,12 @@ Citation Source: https://apps.who.int/iris/bitstream/handle/10665/329368/9789241
 
 * The advent of new powerful hardware and software techniques has triggered attempts to develop computer-aided diagnostic systems for TB detection. Hence, we use three public datasets for building the AI approach. Montgomery County X-ray Set & Shenzhen Hospital X-ray Set / China data set can be found at here [https://openi.nlm.nih.gov/faq#faq-tb-coll] or at Kaggle site: [https://www.kaggle.com/kmader/pulmonary-chest-xray-abnormalities] and original paper is here [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4256233/]; and the third one can be downloaded from here [https://github.com/frapa/tbcnn/tree/master/belarus], and here are a paper [https://www.nature.com/articles/s41598-019-42557-4] and a source code [https://github.com/frapa/tbcnn].
 
-## Therefore, the aim of the project is to build convolutional neural networks for a classification task Chest X ray images of patients acquired Tuberculosis versus of healthy subjects.
+#### Therefore, the aim of the project is to build convolutional neural networks for a classification task Chest X ray images of patients acquired Tuberculosis versus of healthy subjects.
 
-## In this study we used all mixed datasets, and then split them into training/validation/testing parts with ratio 80%:10%:10%
+#### In this study we used all mixed datasets, and then split them into training/validation/testing parts with ratio 80%:10%:10%
 
-## The models and hyperparameters are performed for the project which are referenced following our previous study: Deep Learning for Automated Recognition of Covid-19 from Chest X-ray Images at here [https://www.medrxiv.org/content/10.1101/2020.08.13.20173997v1] and github site at here: [https://github.com/linhduongtuan/Covid-19_Xray_Classifier]
+#### The models and hyperparameters are performed for the project which are referenced following our previous study: Deep Learning for Automated Recognition of Covid-19 from Chest X-ray Images at here [https://www.medrxiv.org/content/10.1101/2020.08.13.20173997v1] and github site at here: [https://github.com/linhduongtuan/Covid-19_Xray_Classifier]
 
-## Confusion matrices are calculated by inferencing on testing set can be seen on Confusion Matrices folder.
+#### The study results are shown using Confusion matrices and Receiver Operation Characteristic (ROC). These are calculated by inferencing on testing set. You can see on Confusion Matrices and ROC folders.
 
 ### @creator: Duong Tuan Linh
