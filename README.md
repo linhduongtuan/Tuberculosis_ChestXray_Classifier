@@ -35,5 +35,5 @@ Citation Source: https://apps.who.int/iris/bitstream/handle/10665/329368/9789241
 
 ### Latest DOI
 
-[![DOI](https://doi.org/10.1016/j.eswa.2021.115519)
+[![DOI](https://zenodo.org/badge/168799526.svg)](https://doi.org/10.1016/j.eswa.2021.115519)
 ### @creator: Duong Tuan Linh
