@@ -16,4 +16,24 @@ Citation Source: https://apps.who.int/iris/bitstream/handle/10665/329368/9789241
 
 #### The study results are shown using Confusion matrices and Receiver Operation Characteristic (ROC). These are calculated by inferencing on testing set. You can see on Confusion Matrices and ROC folders.
 
+## Citing
+### Please cite our paper: [Detection of tuberculosis from chest X-ray images: Boosting the performance with vision transformer and transfer learning](https://www.sciencedirect.com/science/article/pii/S0957417421009295?fbclid=IwAR3MK1Y-IQL2HD25E68fCUs3NxGsaHK3qJAtWzX_MVF9hRWe8ZcdX-5bOUQ#b0150)
+
+
+### BibTeX
+
+```bibtex
+@article{duong2021detection,
+  title={Detection of Tuberculosis from Chest X-ray Images: Boosting the Performance with Vision Transformer and Transfer Learning},
+  author={Duong, Linh T and Le, Nhi H and Tran, Toan B and Ngo, Vuong M and Nguyen, Phuong T},
+  journal={Expert Systems with Applications},
+  pages={115519},
+  year={2021},
+  publisher={Elsevier}
+}
+```
+
+### Latest DOI
+
+[![DOI](https://doi.org/10.1016/j.eswa.2021.115519)
 ### @creator: Duong Tuan Linh
