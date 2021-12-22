@@ -23,13 +23,17 @@ Citation Source: https://apps.who.int/iris/bitstream/handle/10665/329368/9789241
 ### BibTeX
 
 ```bibtex
-@article{duong2021detection,
-  title={Detection of Tuberculosis from Chest X-ray Images: Boosting the Performance with Vision Transformer and Transfer Learning},
-  author={Duong, Linh T and Le, Nhi H and Tran, Toan B and Ngo, Vuong M and Nguyen, Phuong T},
-  journal={Expert Systems with Applications},
-  pages={115519},
-  year={2021},
-  publisher={Elsevier}
+@article{DUONG2021115519,
+title = {Detection of tuberculosis from chest X-ray images: Boosting the performance with vision transformer and transfer learning},
+journal = {Expert Systems with Applications},
+volume = {184},
+pages = {115519},
+year = {2021},
+issn = {0957-4174},
+doi = {https://doi.org/10.1016/j.eswa.2021.115519},
+url = {https://www.sciencedirect.com/science/article/pii/S0957417421009295},
+author = {Linh T. Duong and Nhi H. Le and Toan B. Tran and Vuong M. Ngo and Phuong T. Nguyen},
+keywords = {Deep learning, EfficientNet, Tuberculosis detection, Transfer learning, Transformer}
 }
 ```
 
